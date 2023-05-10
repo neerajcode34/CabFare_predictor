@@ -7,6 +7,8 @@ const express = require('express');
 const dbConnect = require('./mongodb');
 const cors = require('cors');
 
+app.use(cors());
+
 // Express app setup & configurations
 const app = express();
 
