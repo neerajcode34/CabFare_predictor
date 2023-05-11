@@ -13,7 +13,7 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-  origin: 'https://645c6c83d2d1ff4266c64555--amazing-macaron-e070e7.netlify.app',
+  origin: 'https://645c7167cf55854db1a9d226--resonant-malasada-0a1e60.netlify.app',
   credentials: true
 }))
 
