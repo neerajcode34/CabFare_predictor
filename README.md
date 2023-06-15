@@ -4,6 +4,8 @@ It is a web app built on MERN stack. It predicts the cost of the ride based on u
 
 The project's frontend and backend are built separately so that more features can be added easily in future.
 
+view live: https://resonant-malasada-0a1e60.netlify.app/
+
 ## Features
 
 1. JWT based authentication system.
